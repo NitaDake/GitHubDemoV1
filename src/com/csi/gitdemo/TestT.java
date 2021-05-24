@@ -8,5 +8,11 @@ public static void main(String[] args) {
 	finally{
 		System.out.println("catch");
 	}
+try{
+	System.out.println("hiii");
+}
+finally{
+	System.out.println("finally");
+}
 }
 }
